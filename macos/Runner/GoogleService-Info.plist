@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAs2GG6NS9JRs1uq1WGvNQ5bfuIa-B3aNc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>481197829809</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.signup.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-cookbook-c7b43</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-cookbook-c7b43.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:481197829809:ios:5e887d0e83b9d5c219bc90</string>
+</dict>
+</plist>
